@@ -8,7 +8,6 @@ class Person
     @this_is_persons_name
   end
 
-
   def job=(persons_job)
     @my_job = persons_job
   end
