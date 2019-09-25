@@ -13,3 +13,4 @@ class Dog
   def breed
     @this_is_dogs_breed
   end
+end
