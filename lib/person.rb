@@ -8,8 +8,6 @@ class Person
     @this_is_persons_name
   end
 
-  fido = Dog.new
-  fido.name
 
   def job=(persons_job)
     @my_job = persons_job
@@ -18,3 +16,6 @@ class Person
     @my_job
   end
 end
+
+Beyonce = Person.new
+Beyonce.name
